@@ -1,0 +1,10 @@
+.decor {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  color: #010101;
+  background-color: rgba(117, 18, 1, 0.2);
+}
